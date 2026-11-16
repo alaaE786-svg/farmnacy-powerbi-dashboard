@@ -1,0 +1,22 @@
+# Power BI local cache and settings
+.pbi/
+cache.abf
+localSettings.json
+*.pbix.bak
+*.tmp
+~$*
+
+# Keep real or sensitive data out of the repo
+data/raw/
+data/private/
+*.csv
+*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
