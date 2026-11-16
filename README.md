@@ -86,7 +86,7 @@ Full details are in [Documentation/Project-Description.md](Documentation/Project
 ## How to Open
 
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows).
-2. Download `Dashboard/farmnacy.pbix`.
+2. Download 'farmnacy.pbix'
 3. Open it in Power BI Desktop and explore the three pages.
 
 ## Future Improvements
@@ -99,10 +99,6 @@ Full details are in [Documentation/Project-Description.md](Documentation/Project
 ## Author
 
 **[Alaa Elsayad]**
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/alaa-essam-34b931403?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [GitHub](https://github.com/alaaE786-svg)
 
 Feedback and suggestions are welcome.
-
-## License
-
-This project is licensed under the MIT License.
