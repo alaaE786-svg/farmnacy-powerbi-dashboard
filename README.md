@@ -86,7 +86,7 @@ Full details are in [Documentation/Project-Description.md](Documentation/Project
 ## How to Open
 
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows).
-2. Download [farmnacy.pbix](Dashboard/farmnacy.pbix).                                                                           
+2. Download [farmnacy.pbix](https://github.com/alaaE786-svg/farmnacy-powerbi-dashboard/raw/main/Dashboard/farmnacy.pbix).                                                                          
 3. Open it in Power BI Desktop and explore the three pages.
 
 ## Future Improvements
