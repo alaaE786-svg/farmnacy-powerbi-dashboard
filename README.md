@@ -4,7 +4,7 @@ An interactive **Power BI** dashboard that turns pharma sales data into a clear 
 
 ![Overview](Screenshot/overview.png)
 
-> **Note:** The data in this project is sample data created for learning and portfolio purposes. It is not real company data.
+
 
 ---
 
@@ -78,7 +78,6 @@ farmnacy-powerbi-dashboard/
 │   ├── sales.png
 │   └── product-customer.png
 ├── .gitignore
-├── LICENSE
 └── README.md
 ```
 
@@ -99,7 +98,7 @@ Full details are in [Documentation/Project-Description.md](Documentation/Project
 
 ## Author
 
-**[Your Name]**
+**[Alaa Elsayad]**
 [LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
 
 Feedback and suggestions are welcome.
